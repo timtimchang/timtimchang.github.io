@@ -1,3 +1,9 @@
+---
+layout: page
+# title: My website
+# subtitle: This is where I will tell my friends way too much about me
+---
+
 ## Notes
 [CascadeTabNet An approach for end to end table detection and structure recognition from image-based documents](https://github.com/timtimchang/yctimchang_note/tree/main/Paper%20Explore/CascadeTabNet%20An%20approach%20for%20end%20to%20end%20table%20detection%20and%20structure%20recognition%20from%20image-based%20documents)
 
