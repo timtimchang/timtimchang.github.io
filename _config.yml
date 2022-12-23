@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Yen-Cheng Chang Website
+title: Yen-Cheng Chang
 
 # Your name to show in the footer
 author: Yen-Cheng Chang
@@ -20,11 +20,14 @@ author: Yen-Cheng Chang
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+#   About Me: "aboutme"
+#   Resources:
+#     - Beautiful Jekyll: "https://beautifuljekyll.com"
+#     - Learn markdown: "https://www.markdowntutorial.com/"
+    BLOG: "aboutme"
+    PUBLICATIONS: "aboutme"
+    RESUME/CV: "https://github.com/timtimchang/timtimchang.github.io/blob/master/Yen-Cheng_Chang_resume.pdf"
+    
 
 ################
 # --- Logo --- #
