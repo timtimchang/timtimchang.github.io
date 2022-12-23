@@ -26,7 +26,7 @@ navbar-links:
 #     - Learn markdown: "https://www.markdowntutorial.com/"
     HOME: "index"
     PUBLICATIONS: "pubs"
-    NOTES: "https://github.com/timtimchang/yctimchang_note/blob/main/README.md"
+    NOTES: "yctimchang_note"
     RESUME/CV: "https://github.com/timtimchang/timtimchang.github.io/raw/master/Yen-Cheng_Chang_resume.pdf"
     
 
