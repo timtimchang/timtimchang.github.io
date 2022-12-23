@@ -9,7 +9,7 @@ layout: page
 <h2>Yen-Cheng Chang (張晏誠)</h2><br />
 Machine Learning Researcher,<br />
 Deputy Chief Engineer,<br />
-Computer Vision Track,<br />
+Computer Vision Lab,<br />
 E.SUN Financial Holding Company<br />
 <br clear="left"/>
 <br />
