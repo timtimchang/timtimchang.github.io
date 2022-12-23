@@ -24,9 +24,9 @@ navbar-links:
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
 #     - Learn markdown: "https://www.markdowntutorial.com/"
-    BLOG: "aboutme"
-    PUBLICATIONS: "aboutme"
-    NOTES: "aboutne"
+    HOME: "home"
+    PUBLICATIONS: "pubs"
+    NOTES: "notes"
     RESUME/CV: "https://github.com/timtimchang/timtimchang.github.io/raw/master/Yen-Cheng_Chang_resume.pdf"
     
 
