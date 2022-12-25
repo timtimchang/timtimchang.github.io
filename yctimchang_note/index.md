@@ -74,3 +74,9 @@ layout: page
 
 [optimization workshop by yen-cheng](Optimization%20Workshop)
 
+[OPTIMIZING MODEL PARAMETERS in Pytorch](Optimization%20Workshop/OPTIMIZING%20MODEL%20PARAMETERS)
+
+[History of Optimizer](Optimization%20Workshop/History%20of%20Optimizer)
+
+[Adafactor: Adaptive Learning Rates with Sublinear Memory Cost](Optimization%20Workshop/Adafactor_%20Adaptive%20Learning%20Rates%20with%20Sublinear%20Memory%20Cost)
+
