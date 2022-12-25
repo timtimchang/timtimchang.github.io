@@ -66,13 +66,11 @@ layout: page
 [Unified Contrastive Learning in Image-Text-Label Space](Paper%20Explore/Unified%20Contrastive%20Learning%20in%20Image-Text-Label%20Space)
 
 ## Workshop & Conference Notes
-[Fintech Survey](Fintech%20Survey)
+[Fintech Survey 2022 notes](Fintech%20Survey)
 
 [ICIP 2022 notes](ICIP%202022%20notes)
 
 [Interspeech 2022 notes](Interspeech%202022%20notes)
-
-[optimization workshop by yen-cheng](Optimization%20Workshop)
 
 [OPTIMIZING MODEL PARAMETERS in Pytorch](Optimization%20Workshop/OPTIMIZING%20MODEL%20PARAMETERS)
 
