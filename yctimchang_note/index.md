@@ -70,7 +70,7 @@ layout: page
 
 [ICIP 2022 notes](ICIP%202022%20notes)
 
-[Interspeech 2022 notes](Interspeech%202022%20notes)
+[INTERSPEECH 2022 notes](Interspeech%202022%20notes)
 
 [OPTIMIZING MODEL PARAMETERS in Pytorch](Optimization%20Workshop/OPTIMIZING%20MODEL%20PARAMETERS)
 
