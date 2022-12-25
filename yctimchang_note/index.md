@@ -66,7 +66,7 @@ layout: page
 [Unified Contrastive Learning in Image-Text-Label Space](Paper%20Explore/Unified%20Contrastive%20Learning%20in%20Image-Text-Label%20Space)
 
 ## Workshop & Conference Notes
-[Fintech Survey](yctimchang_note/Fintech%20Survey)
+[Fintech Survey](Fintech%20Survey)
 
 [ICIP 2022 notes](ICIP%202022%20notes)
 
